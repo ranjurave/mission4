@@ -7,6 +7,7 @@ function App() {
       <div className='TextBox'>
         <h1>Mission 4</h1>
         <MissionForm/>
+        <MissionForm/>
       </div>
       <p>by: Alyssa Barret and Ranju Raveendran </p>
     </div>
